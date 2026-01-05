@@ -1,0 +1,519 @@
+[
+{
+  "model": "sensors.calibration",
+  "pk": 9,
+  "fields": {
+    "sensor": 13,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 1.2,
+    "applied_at": "2025-09-13T22:53:49.194Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 10,
+  "fields": {
+    "sensor": 13,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 1.2,
+    "applied_at": "2025-09-13T22:54:25.611Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 11,
+  "fields": {
+    "sensor": 13,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 1.2,
+    "applied_at": "2025-09-13T22:58:37.576Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 12,
+  "fields": {
+    "sensor": 13,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 1.2,
+    "applied_at": "2025-09-13T23:02:26.293Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 13,
+  "fields": {
+    "sensor": 13,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 1.2,
+    "applied_at": "2025-09-13T23:03:40.210Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 14,
+  "fields": {
+    "sensor": 13,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 1.2,
+    "applied_at": "2025-09-13T23:04:55.692Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 15,
+  "fields": {
+    "sensor": 13,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 1.2,
+    "applied_at": "2025-09-13T23:09:54.492Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 16,
+  "fields": {
+    "sensor": 14,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 60.0,
+    "applied_at": "2025-09-13T23:10:09.327Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 17,
+  "fields": {
+    "sensor": 18,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 2.5,
+    "applied_at": "2025-09-13T23:15:33.838Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 18,
+  "fields": {
+    "sensor": 13,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 1.2,
+    "applied_at": "2025-09-13T23:16:53.672Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 19,
+  "fields": {
+    "sensor": 17,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 95.0,
+    "applied_at": "2025-09-13T23:57:09.462Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 20,
+  "fields": {
+    "sensor": 14,
+    "method": "linear",
+    "params": {
+      "correction_factor": -1.375004068920279
+    },
+    "corrected_value": 63.13,
+    "applied_at": "2025-09-14T00:37:15.780Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 21,
+  "fields": {
+    "sensor": 15,
+    "method": "linear",
+    "params": {
+      "correction_factor": 0.4332258335916048
+    },
+    "corrected_value": 1.97,
+    "applied_at": "2025-09-14T00:37:16.741Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 22,
+  "fields": {
+    "sensor": 15,
+    "method": "polynomial",
+    "params": {
+      "correction_factor": 0.1980824417862963
+    },
+    "corrected_value": 4.42,
+    "applied_at": "2025-09-14T00:37:16.751Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 23,
+  "fields": {
+    "sensor": 17,
+    "method": "custom",
+    "params": {
+      "correction_factor": 0.47123670044735366
+    },
+    "corrected_value": 94.36,
+    "applied_at": "2025-09-14T00:37:17.493Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 24,
+  "fields": {
+    "sensor": 19,
+    "method": "custom",
+    "params": {
+      "correction_factor": 1.1216048737847366
+    },
+    "corrected_value": 49.45,
+    "applied_at": "2025-09-14T00:37:18.710Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 25,
+  "fields": {
+    "sensor": 13,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 1.2,
+    "applied_at": "2025-09-14T00:41:33.518Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 26,
+  "fields": {
+    "sensor": 13,
+    "method": "custom",
+    "params": {
+      "correction_factor": 0.8241257935620299
+    },
+    "corrected_value": 1.92,
+    "applied_at": "2025-09-14T00:56:06.111Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 27,
+  "fields": {
+    "sensor": 17,
+    "method": "polynomial",
+    "params": {
+      "correction_factor": 1.4873910087511395
+    },
+    "corrected_value": 101.02,
+    "applied_at": "2025-09-14T00:56:08.534Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 28,
+  "fields": {
+    "sensor": 18,
+    "method": "linear",
+    "params": {
+      "correction_factor": 0.05253157679630949
+    },
+    "corrected_value": 2.66,
+    "applied_at": "2025-09-14T00:56:09.297Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 29,
+  "fields": {
+    "sensor": 19,
+    "method": "linear",
+    "params": {
+      "correction_factor": 1.9849310877709239
+    },
+    "corrected_value": 49.48,
+    "applied_at": "2025-09-14T00:56:09.983Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 30,
+  "fields": {
+    "sensor": 19,
+    "method": "polynomial",
+    "params": {
+      "correction_factor": -0.7942236824906646
+    },
+    "corrected_value": 47.51,
+    "applied_at": "2025-09-14T00:56:09.992Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 31,
+  "fields": {
+    "sensor": 20,
+    "method": "linear",
+    "params": {
+      "correction_factor": -0.9095612980648586
+    },
+    "corrected_value": -0.41,
+    "applied_at": "2025-09-14T00:56:10.888Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 32,
+  "fields": {
+    "sensor": 13,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 1.2,
+    "applied_at": "2025-09-14T00:58:10.340Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 33,
+  "fields": {
+    "sensor": 13,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 1.2,
+    "applied_at": "2025-09-14T01:50:41.818Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 34,
+  "fields": {
+    "sensor": 18,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 2.41,
+    "applied_at": "2025-09-14T01:51:05.577Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 35,
+  "fields": {
+    "sensor": 13,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 1.2,
+    "applied_at": "2025-09-14T02:18:52.538Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 36,
+  "fields": {
+    "sensor": 18,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 2.5,
+    "applied_at": "2025-09-14T02:19:13.618Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 37,
+  "fields": {
+    "sensor": 13,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 1.2,
+    "applied_at": "2025-09-14T02:51:23.843Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 38,
+  "fields": {
+    "sensor": 18,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 2.4010000000000002,
+    "applied_at": "2025-09-14T02:51:55.010Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 39,
+  "fields": {
+    "sensor": 13,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 1.3405115408608856,
+    "applied_at": "2025-09-14T02:58:16.191Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 40,
+  "fields": {
+    "sensor": 13,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 1.3263951519472417,
+    "applied_at": "2025-09-14T02:58:19.019Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 41,
+  "fields": {
+    "sensor": 13,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 1.3263951519472417,
+    "applied_at": "2025-09-14T02:58:21.307Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 42,
+  "fields": {
+    "sensor": 13,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 1.3263951519472417,
+    "applied_at": "2025-09-14T02:58:23.357Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 43,
+  "fields": {
+    "sensor": 13,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 1.2,
+    "applied_at": "2025-09-14T06:23:42.065Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 44,
+  "fields": {
+    "sensor": 13,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 1.2,
+    "applied_at": "2025-09-14T06:38:09.078Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 45,
+  "fields": {
+    "sensor": 13,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 1.2,
+    "applied_at": "2025-09-14T06:38:53.260Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 46,
+  "fields": {
+    "sensor": 13,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 1.2,
+    "applied_at": "2025-09-19T13:40:52.284Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 47,
+  "fields": {
+    "sensor": 13,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 1.3263951519472417,
+    "applied_at": "2025-09-19T13:40:56.152Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 48,
+  "fields": {
+    "sensor": 13,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 1.3263951519472417,
+    "applied_at": "2025-09-19T13:40:57.763Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 49,
+  "fields": {
+    "sensor": 13,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 1.3263951519472417,
+    "applied_at": "2025-09-19T13:40:59.465Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 50,
+  "fields": {
+    "sensor": 13,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 1.3263951519472417,
+    "applied_at": "2025-09-19T13:41:00.715Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 51,
+  "fields": {
+    "sensor": 14,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 60.0,
+    "applied_at": "2025-09-20T05:24:22.586Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 52,
+  "fields": {
+    "sensor": 13,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 1.2,
+    "applied_at": "2025-09-27T20:30:39.806Z"
+  }
+},
+{
+  "model": "sensors.calibration",
+  "pk": 53,
+  "fields": {
+    "sensor": 18,
+    "method": "linear",
+    "params": {},
+    "corrected_value": 2.5,
+    "applied_at": "2025-09-27T20:32:57.607Z"
+  }
+}
+]

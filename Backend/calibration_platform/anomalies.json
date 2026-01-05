@@ -1,0 +1,8290 @@
+[
+{
+  "model": "sensors.anomaly",
+  "pk": 202,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.58,
+    "expected": 1.2,
+    "deviation": 31.666666666666675,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:53:05.111Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 203,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 1.94,
+    "expected": 2.5,
+    "deviation": -22.400000000000002,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:53:05.119Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 204,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.81,
+    "expected": 3.0,
+    "deviation": -6.333333333333331,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:53:05.126Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 205,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 0.79,
+    "expected": 1.2,
+    "deviation": -34.166666666666664,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:53:11.290Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 206,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 1.83,
+    "expected": 2.5,
+    "deviation": -26.799999999999997,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:53:11.303Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 207,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.09,
+    "expected": 2.2,
+    "deviation": -5.000000000000014,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:53:11.313Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 208,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.14,
+    "expected": 3.0,
+    "deviation": -28.666666666666664,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:53:11.325Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 209,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.25,
+    "expected": 1.2,
+    "deviation": 4.1666666666666705,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:53:13.287Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 210,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 0.97,
+    "expected": 2.5,
+    "deviation": -61.199999999999996,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:53:13.299Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 211,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 1.12,
+    "expected": 2.2,
+    "deviation": -49.09090909090909,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:53:13.310Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 212,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 0.9,
+    "expected": 1.2,
+    "deviation": -24.999999999999993,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:53:15.296Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 213,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 1.06,
+    "expected": 2.5,
+    "deviation": -57.599999999999994,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:53:15.299Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 214,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 0.51,
+    "expected": 2.2,
+    "deviation": -76.81818181818181,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:53:15.303Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 215,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.31,
+    "expected": 3.0,
+    "deviation": 10.333333333333334,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:53:15.326Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 216,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 4.28,
+    "expected": 3.0,
+    "deviation": 42.66666666666667,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:53:17.290Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 217,
+  "fields": {
+    "sensor": 14,
+    "type": "Drift",
+    "value": 61.27,
+    "expected": 60.0,
+    "deviation": 2.116666666666672,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:53:17.288Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 218,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 0.69,
+    "expected": 2.5,
+    "deviation": -72.39999999999999,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:53:17.300Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 219,
+  "fields": {
+    "sensor": 19,
+    "type": "Drift",
+    "value": 46.26,
+    "expected": 45.0,
+    "deviation": 2.7999999999999954,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:53:17.303Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 220,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": -0.01,
+    "expected": 2.2,
+    "deviation": -100.45454545454544,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:53:17.306Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 221,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 0.75,
+    "expected": 1.2,
+    "deviation": -37.5,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:53:17.350Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 222,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.42,
+    "expected": 1.2,
+    "deviation": 18.333333333333332,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:53:19.283Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 223,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 1.03,
+    "expected": 2.5,
+    "deviation": -58.8,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:53:19.291Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 224,
+  "fields": {
+    "sensor": 19,
+    "type": "Drift",
+    "value": 46.6,
+    "expected": 45.0,
+    "deviation": 3.555555555555559,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:53:19.294Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 225,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": -0.47,
+    "expected": 2.2,
+    "deviation": -121.36363636363635,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:53:19.301Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 226,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 4.27,
+    "expected": 3.0,
+    "deviation": 42.333333333333314,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:53:19.304Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 227,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.06,
+    "expected": 1.2,
+    "deviation": -11.666666666666659,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:30.107Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 228,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 3.04,
+    "expected": 2.5,
+    "deviation": 21.6,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:30.113Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 229,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.86,
+    "expected": 3.0,
+    "deviation": 28.666666666666664,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:30.119Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 230,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 1.82,
+    "expected": 2.2,
+    "deviation": -17.272727272727277,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:30.127Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 231,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 0.51,
+    "expected": 1.2,
+    "deviation": -57.49999999999999,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:32.099Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 232,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 4.13,
+    "expected": 3.0,
+    "deviation": 37.666666666666664,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:32.098Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 233,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.6,
+    "expected": 2.5,
+    "deviation": 4.0000000000000036,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:32.111Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 234,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 0.93,
+    "expected": 2.2,
+    "deviation": -57.72727272727273,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:32.114Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 235,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.06,
+    "expected": 1.2,
+    "deviation": -11.666666666666659,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:34.096Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 236,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 1.75,
+    "expected": 2.5,
+    "deviation": -30.0,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:34.112Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 237,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.35,
+    "expected": 3.0,
+    "deviation": 11.66666666666667,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:34.111Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 238,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 0.29,
+    "expected": 2.2,
+    "deviation": -86.81818181818181,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:34.119Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 239,
+  "fields": {
+    "sensor": 19,
+    "type": "Drift",
+    "value": 44.09,
+    "expected": 45.0,
+    "deviation": -2.0222222222222146,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:34.135Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 240,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.34,
+    "expected": 1.2,
+    "deviation": 11.666666666666679,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:36.101Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 241,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.45,
+    "expected": 3.0,
+    "deviation": -18.333333333333325,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:36.118Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 242,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 1.58,
+    "expected": 2.5,
+    "deviation": -36.8,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:36.122Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 243,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": -0.28,
+    "expected": 2.2,
+    "deviation": -112.72727272727275,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:36.135Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 244,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 2.15,
+    "expected": 1.2,
+    "deviation": 79.16666666666666,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:38.108Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 245,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.22,
+    "expected": 2.5,
+    "deviation": -11.199999999999992,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:38.112Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 246,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 0.68,
+    "expected": 2.2,
+    "deviation": -69.09090909090908,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:38.115Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 247,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 1.53,
+    "expected": 3.0,
+    "deviation": -49.0,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:38.119Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 248,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 2.11,
+    "expected": 1.2,
+    "deviation": 75.83333333333333,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:40.097Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 249,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 0.75,
+    "expected": 3.0,
+    "deviation": -75.0,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:40.106Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 250,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 1.26,
+    "expected": 2.5,
+    "deviation": -49.6,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:40.112Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 251,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 0.07,
+    "expected": 2.2,
+    "deviation": -96.81818181818183,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:40.128Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 252,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 1.81,
+    "expected": 2.5,
+    "deviation": -27.599999999999998,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:42.111Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 253,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 0.82,
+    "expected": 2.2,
+    "deviation": -62.72727272727274,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:42.113Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 254,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.33,
+    "expected": 1.2,
+    "deviation": 10.833333333333343,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:42.119Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 255,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 0.18,
+    "expected": 3.0,
+    "deviation": -94.0,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:42.110Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 256,
+  "fields": {
+    "sensor": 17,
+    "type": "Drift",
+    "value": 91.72,
+    "expected": 95.0,
+    "deviation": -3.45263157894737,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:44.103Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 257,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 0.76,
+    "expected": 1.2,
+    "deviation": -36.666666666666664,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:44.106Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 258,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 1.71,
+    "expected": 2.2,
+    "deviation": -22.27272727272728,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:44.114Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 259,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 1.05,
+    "expected": 3.0,
+    "deviation": -65.0,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:44.117Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 260,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.03,
+    "expected": 2.5,
+    "deviation": -18.800000000000008,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:44.116Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 261,
+  "fields": {
+    "sensor": 14,
+    "type": "Drift",
+    "value": 58.51,
+    "expected": 60.0,
+    "deviation": -2.4833333333333365,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:56:44.101Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 262,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.88,
+    "expected": 1.2,
+    "deviation": 56.666666666666664,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:42.394Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 263,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 1.32,
+    "expected": 2.2,
+    "deviation": -40.0,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:42.399Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 264,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.23,
+    "expected": 3.0,
+    "deviation": -25.666666666666664,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:42.404Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 265,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 3.47,
+    "expected": 2.5,
+    "deviation": 38.800000000000004,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:42.414Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 266,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 3.12,
+    "expected": 2.5,
+    "deviation": 24.800000000000004,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:44.399Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 267,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 2.48,
+    "expected": 1.2,
+    "deviation": 106.66666666666667,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:44.402Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 268,
+  "fields": {
+    "sensor": 19,
+    "type": "Drift",
+    "value": 46.36,
+    "expected": 45.0,
+    "deviation": 3.022222222222221,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:44.408Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 269,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 1.15,
+    "expected": 2.2,
+    "deviation": -47.727272727272734,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:44.414Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 270,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 1.36,
+    "expected": 3.0,
+    "deviation": -54.666666666666664,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:44.421Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 271,
+  "fields": {
+    "sensor": 14,
+    "type": "Drift",
+    "value": 58.28,
+    "expected": 60.0,
+    "deviation": -2.866666666666665,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:44.423Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 272,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 3.38,
+    "expected": 1.2,
+    "deviation": 181.66666666666663,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:46.913Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 273,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 3.38,
+    "expected": 2.5,
+    "deviation": 35.199999999999996,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:46.918Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 274,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 0.62,
+    "expected": 3.0,
+    "deviation": -79.33333333333333,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:46.921Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 275,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 1.9,
+    "expected": 2.2,
+    "deviation": -13.636363636363647,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:46.922Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 276,
+  "fields": {
+    "sensor": 19,
+    "type": "Drift",
+    "value": 45.97,
+    "expected": 45.0,
+    "deviation": 2.155555555555553,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:46.927Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 277,
+  "fields": {
+    "sensor": 14,
+    "type": "Drift",
+    "value": 57.99,
+    "expected": 60.0,
+    "deviation": -3.3499999999999965,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:46.935Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 278,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 4.1,
+    "expected": 1.2,
+    "deviation": 241.66666666666666,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:48.402Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 279,
+  "fields": {
+    "sensor": 14,
+    "type": "Drift",
+    "value": 57.42,
+    "expected": 60.0,
+    "deviation": -4.299999999999997,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:48.404Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 280,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 1.47,
+    "expected": 2.2,
+    "deviation": -33.18181818181819,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:48.418Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 281,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 1.01,
+    "expected": 3.0,
+    "deviation": -66.33333333333333,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:48.421Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 282,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 4.5,
+    "expected": 1.2,
+    "deviation": 275.0,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:50.399Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 283,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 3.27,
+    "expected": 2.5,
+    "deviation": 30.8,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:50.407Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 284,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 1.66,
+    "expected": 2.2,
+    "deviation": -24.545454545454557,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:50.406Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 285,
+  "fields": {
+    "sensor": 19,
+    "type": "Drift",
+    "value": 46.0,
+    "expected": 45.0,
+    "deviation": 2.2222222222222223,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:50.417Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 286,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 1.25,
+    "expected": 3.0,
+    "deviation": -58.333333333333336,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:50.417Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 287,
+  "fields": {
+    "sensor": 14,
+    "type": "Drift",
+    "value": 58.16,
+    "expected": 60.0,
+    "deviation": -3.066666666666672,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:50.439Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 288,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 3.54,
+    "expected": 1.2,
+    "deviation": 195.0,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:52.919Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 289,
+  "fields": {
+    "sensor": 14,
+    "type": "Drift",
+    "value": 58.56,
+    "expected": 60.0,
+    "deviation": -2.3999999999999964,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:52.918Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 290,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 0.94,
+    "expected": 2.2,
+    "deviation": -57.27272727272727,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:52.928Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 291,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 3.39,
+    "expected": 2.5,
+    "deviation": 35.6,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:52.937Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 292,
+  "fields": {
+    "sensor": 19,
+    "type": "Drift",
+    "value": 46.7,
+    "expected": 45.0,
+    "deviation": 3.777777777777784,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:52.941Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 293,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 1.34,
+    "expected": 3.0,
+    "deviation": -55.333333333333336,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:52.955Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 294,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 0.88,
+    "expected": 3.0,
+    "deviation": -70.66666666666667,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:54.914Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 295,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 2.71,
+    "expected": 1.2,
+    "deviation": 125.83333333333333,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:54.917Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 296,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 0.36,
+    "expected": 2.2,
+    "deviation": -83.63636363636364,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:54.928Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 297,
+  "fields": {
+    "sensor": 19,
+    "type": "Drift",
+    "value": 46.62,
+    "expected": 45.0,
+    "deviation": 3.5999999999999943,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:54.934Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 298,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.72,
+    "expected": 2.5,
+    "deviation": 8.800000000000008,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:54.953Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 299,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": -0.1,
+    "expected": 2.2,
+    "deviation": -104.54545454545455,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:56.924Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 300,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 1.15,
+    "expected": 3.0,
+    "deviation": -61.66666666666667,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:56.928Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 301,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.97,
+    "expected": 1.2,
+    "deviation": 64.16666666666667,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:56.926Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 302,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.65,
+    "expected": 2.5,
+    "deviation": 5.9999999999999964,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:56.937Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 303,
+  "fields": {
+    "sensor": 19,
+    "type": "Drift",
+    "value": 46.62,
+    "expected": 45.0,
+    "deviation": 3.5999999999999943,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:56.938Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 304,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.77,
+    "expected": 2.5,
+    "deviation": 10.8,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:58.917Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 305,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 1.82,
+    "expected": 3.0,
+    "deviation": -39.33333333333333,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:58.920Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 306,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": -0.07,
+    "expected": 2.2,
+    "deviation": -103.18181818181817,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:58.929Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 307,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 2.63,
+    "expected": 1.2,
+    "deviation": 119.16666666666667,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:58.938Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 308,
+  "fields": {
+    "sensor": 19,
+    "type": "Drift",
+    "value": 47.11,
+    "expected": 45.0,
+    "deviation": 4.688888888888887,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:58:58.958Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 309,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 2.84,
+    "expected": 1.2,
+    "deviation": 136.66666666666666,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:59:00.923Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 310,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 0.99,
+    "expected": 3.0,
+    "deviation": -67.0,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:59:00.927Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 311,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": -0.36,
+    "expected": 2.2,
+    "deviation": -116.36363636363636,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:59:00.926Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 312,
+  "fields": {
+    "sensor": 19,
+    "type": "Drift",
+    "value": 47.44,
+    "expected": 45.0,
+    "deviation": 5.422222222222217,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:59:00.939Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 313,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 3.38,
+    "expected": 2.5,
+    "deviation": 35.199999999999996,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:59:00.984Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 314,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.91,
+    "expected": 1.2,
+    "deviation": 59.166666666666664,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:59:02.927Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 315,
+  "fields": {
+    "sensor": 19,
+    "type": "Drift",
+    "value": 48.35,
+    "expected": 45.0,
+    "deviation": 7.444444444444448,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:59:02.931Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 316,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 0.23,
+    "expected": 2.2,
+    "deviation": -89.54545454545455,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:59:02.935Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 317,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.94,
+    "expected": 2.5,
+    "deviation": 17.599999999999998,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:59:02.949Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 318,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 1.86,
+    "expected": 3.0,
+    "deviation": -37.99999999999999,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:59:02.957Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 319,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 2.8,
+    "expected": 1.2,
+    "deviation": 133.33333333333331,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:59:04.921Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 320,
+  "fields": {
+    "sensor": 19,
+    "type": "Drift",
+    "value": 48.74,
+    "expected": 45.0,
+    "deviation": 8.311111111111115,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:59:04.918Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 321,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 0.64,
+    "expected": 2.2,
+    "deviation": -70.9090909090909,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:59:04.927Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 322,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 1.72,
+    "expected": 3.0,
+    "deviation": -42.66666666666667,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:59:04.938Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 323,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.85,
+    "expected": 2.5,
+    "deviation": 14.000000000000004,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:59:04.958Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 324,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 3.47,
+    "expected": 1.2,
+    "deviation": 189.1666666666667,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:59:06.917Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 325,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 0.57,
+    "expected": 2.2,
+    "deviation": -74.0909090909091,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:59:06.923Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 326,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.75,
+    "expected": 2.5,
+    "deviation": 10.0,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:59:06.927Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 327,
+  "fields": {
+    "sensor": 19,
+    "type": "Drift",
+    "value": 48.3,
+    "expected": 45.0,
+    "deviation": 7.333333333333327,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:59:06.938Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 328,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.31,
+    "expected": 3.0,
+    "deviation": -23.0,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:59:06.937Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 329,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 2.85,
+    "expected": 1.2,
+    "deviation": 137.50000000000003,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:59:08.919Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 330,
+  "fields": {
+    "sensor": 14,
+    "type": "Drift",
+    "value": 58.34,
+    "expected": 60.0,
+    "deviation": -2.766666666666661,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:59:08.921Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 331,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.77,
+    "expected": 3.0,
+    "deviation": -7.666666666666666,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:59:08.927Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 332,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 1.01,
+    "expected": 2.2,
+    "deviation": -54.090909090909086,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:59:08.930Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 333,
+  "fields": {
+    "sensor": 19,
+    "type": "Drift",
+    "value": 48.92,
+    "expected": 45.0,
+    "deviation": 8.711111111111116,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:59:08.939Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 334,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.76,
+    "expected": 2.5,
+    "deviation": 10.399999999999991,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:59:08.984Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 335,
+  "fields": {
+    "sensor": 19,
+    "type": "Drift",
+    "value": 49.73,
+    "expected": 45.0,
+    "deviation": 10.511111111111104,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-13T22:59:10.918Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 936,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 0.38,
+    "expected": 1.2,
+    "deviation": -68.33333333333333,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-14T01:35:05.883Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3237,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.16,
+    "expected": 1.2,
+    "deviation": -3.3333333333333366,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-14T10:49:24.449Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3238,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.11,
+    "expected": 1.2,
+    "deviation": -7.4999999999999885,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-14T10:49:34.480Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3239,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.15,
+    "expected": 1.2,
+    "deviation": -4.1666666666666705,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-14T10:49:44.437Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3240,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.16,
+    "expected": 1.2,
+    "deviation": -3.3333333333333366,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-14T10:49:54.436Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3241,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.16,
+    "expected": 1.2,
+    "deviation": -3.3333333333333366,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-14T10:50:04.446Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3242,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.56,
+    "expected": 2.5,
+    "deviation": 2.400000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-14T10:50:14.575Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3243,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.16,
+    "expected": 1.2,
+    "deviation": -3.3333333333333366,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-14T10:50:24.525Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3244,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.6,
+    "expected": 2.5,
+    "deviation": 4.0000000000000036,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-14T10:50:24.741Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3245,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.12,
+    "expected": 1.2,
+    "deviation": -6.666666666666654,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-14T10:50:34.553Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3246,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.62,
+    "expected": 2.5,
+    "deviation": 4.800000000000004,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-14T10:50:34.583Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3247,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.16,
+    "expected": 1.2,
+    "deviation": -3.3333333333333366,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-14T10:50:44.429Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3248,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.62,
+    "expected": 2.5,
+    "deviation": 4.800000000000004,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-14T10:50:44.568Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3249,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.15,
+    "expected": 1.2,
+    "deviation": -4.1666666666666705,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-14T10:50:54.483Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3250,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.57,
+    "expected": 2.5,
+    "deviation": 2.7999999999999936,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-14T10:50:54.601Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3251,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.08,
+    "expected": 2.2,
+    "deviation": -5.4545454545454595,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-14T10:50:54.650Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3252,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.12,
+    "expected": 1.2,
+    "deviation": -6.666666666666654,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-14T10:51:04.443Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3253,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.6,
+    "expected": 2.5,
+    "deviation": 4.0000000000000036,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-14T10:51:04.586Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3254,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.06,
+    "expected": 2.2,
+    "deviation": -6.363636363636369,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-14T10:51:04.675Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3255,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.16,
+    "expected": 1.2,
+    "deviation": -3.3333333333333366,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-14T10:51:14.425Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3256,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.58,
+    "expected": 2.5,
+    "deviation": 3.200000000000003,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-14T10:51:14.589Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3257,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.06,
+    "expected": 2.2,
+    "deviation": -6.363636363636369,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-14T10:51:14.716Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3258,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.09,
+    "expected": 2.2,
+    "deviation": -5.000000000000014,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-14T10:51:24.611Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3259,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.63,
+    "expected": 2.5,
+    "deviation": 5.199999999999996,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-14T10:51:24.735Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3260,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.17,
+    "expected": 1.2,
+    "deviation": -2.500000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-14T10:51:34.405Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3261,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.59,
+    "expected": 2.5,
+    "deviation": 3.5999999999999943,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-14T10:51:34.508Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3262,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.14,
+    "expected": 1.2,
+    "deviation": -5.000000000000004,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-14T10:51:44.411Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3263,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.63,
+    "expected": 2.5,
+    "deviation": 5.199999999999996,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-14T10:51:44.567Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3264,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.62,
+    "expected": 2.5,
+    "deviation": 4.800000000000004,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-14T10:51:54.526Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3265,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.16,
+    "expected": 1.2,
+    "deviation": -3.3333333333333366,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:36:58.323Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3266,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.13,
+    "expected": 1.2,
+    "deviation": -5.833333333333339,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:37:07.129Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3267,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.09,
+    "expected": 1.2,
+    "deviation": -9.166666666666657,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:37:17.125Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3268,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.04,
+    "expected": 1.2,
+    "deviation": -13.333333333333327,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:37:27.170Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3269,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.08,
+    "expected": 2.2,
+    "deviation": -5.4545454545454595,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:37:27.234Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3270,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.03,
+    "expected": 1.2,
+    "deviation": -14.16666666666666,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:37:37.162Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3271,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.06,
+    "expected": 1.2,
+    "deviation": -11.666666666666659,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:37:47.178Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3272,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.57,
+    "expected": 2.5,
+    "deviation": 2.7999999999999936,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:37:47.182Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3273,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.58,
+    "expected": 2.5,
+    "deviation": 3.200000000000003,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:37:57.158Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3274,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.06,
+    "expected": 1.2,
+    "deviation": -11.666666666666659,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:37:57.186Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3275,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.07,
+    "expected": 1.2,
+    "deviation": -10.833333333333325,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:38:07.120Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3276,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.56,
+    "expected": 2.5,
+    "deviation": 2.400000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:38:07.169Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3277,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.81,
+    "expected": 3.0,
+    "deviation": -6.333333333333331,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:38:17.119Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3278,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.11,
+    "expected": 1.2,
+    "deviation": -7.4999999999999885,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:38:17.162Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3279,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.16,
+    "expected": 1.2,
+    "deviation": -3.3333333333333366,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:38:27.128Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3280,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.11,
+    "expected": 1.2,
+    "deviation": -7.4999999999999885,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:38:37.165Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3281,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.83,
+    "expected": 3.0,
+    "deviation": -5.666666666666664,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:38:37.208Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3282,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.58,
+    "expected": 2.5,
+    "deviation": 3.200000000000003,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:38:37.212Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3283,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.25,
+    "expected": 1.2,
+    "deviation": 4.1666666666666705,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:38:54.938Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3284,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.3,
+    "expected": 1.2,
+    "deviation": 8.333333333333341,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:39:05.342Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3285,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.42,
+    "expected": 2.5,
+    "deviation": -3.200000000000003,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:39:05.413Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3286,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.26,
+    "expected": 1.2,
+    "deviation": 5.000000000000004,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:39:15.298Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3287,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.26,
+    "expected": 1.2,
+    "deviation": 5.000000000000004,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:39:25.338Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3288,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.43,
+    "expected": 2.5,
+    "deviation": -2.7999999999999936,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:39:25.419Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3289,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.32,
+    "expected": 2.2,
+    "deviation": 5.454545454545439,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:39:26.591Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3290,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.3,
+    "expected": 1.2,
+    "deviation": 8.333333333333341,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:39:35.358Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3291,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.41,
+    "expected": 2.5,
+    "deviation": -3.5999999999999943,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:39:35.420Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3292,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.32,
+    "expected": 2.2,
+    "deviation": 5.454545454545439,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:39:36.571Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3293,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.32,
+    "expected": 1.2,
+    "deviation": 10.000000000000009,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:39:45.374Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3294,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.39,
+    "expected": 2.5,
+    "deviation": -4.399999999999995,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:39:45.409Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3295,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.35,
+    "expected": 2.2,
+    "deviation": 6.818181818181814,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:39:46.548Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3296,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.36,
+    "expected": 1.2,
+    "deviation": 13.333333333333346,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:39:55.344Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3297,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.42,
+    "expected": 2.5,
+    "deviation": -3.200000000000003,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:39:55.504Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3298,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.36,
+    "expected": 2.2,
+    "deviation": 7.272727272727258,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:39:56.705Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3299,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.38,
+    "expected": 1.2,
+    "deviation": 14.999999999999996,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:40:31.139Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3300,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.39,
+    "expected": 2.5,
+    "deviation": -4.399999999999995,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:40:31.214Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3301,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.39,
+    "expected": 2.2,
+    "deviation": 8.636363636363633,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:40:31.309Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3302,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.41,
+    "expected": 1.2,
+    "deviation": 17.5,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:40:34.951Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3303,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.42,
+    "expected": 2.5,
+    "deviation": -3.200000000000003,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:40:34.992Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3304,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.37,
+    "expected": 2.2,
+    "deviation": 7.727272727272723,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:40:36.093Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3305,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.45,
+    "expected": 1.2,
+    "deviation": 20.833333333333336,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:40:44.910Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3306,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.43,
+    "expected": 2.5,
+    "deviation": -2.7999999999999936,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:40:44.986Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3307,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.38,
+    "expected": 2.2,
+    "deviation": 8.181818181818167,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:40:46.125Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3308,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.4,
+    "expected": 1.2,
+    "deviation": 16.666666666666664,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:40:54.909Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3309,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.41,
+    "expected": 2.2,
+    "deviation": 9.545454545454543,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:40:56.098Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3310,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.44,
+    "expected": 1.2,
+    "deviation": 20.0,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:41:04.908Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3311,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.52,
+    "expected": 1.2,
+    "deviation": 26.66666666666667,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:41:25.358Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3312,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.4,
+    "expected": 2.2,
+    "deviation": 9.09090909090908,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:41:26.526Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3313,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.54,
+    "expected": 1.2,
+    "deviation": 28.333333333333343,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:41:35.366Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3314,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.4,
+    "expected": 2.2,
+    "deviation": 9.09090909090908,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:41:36.573Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3315,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.54,
+    "expected": 1.2,
+    "deviation": 28.333333333333343,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:41:45.342Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3316,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.37,
+    "expected": 2.2,
+    "deviation": 7.727272727272723,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:41:46.595Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3317,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.52,
+    "expected": 1.2,
+    "deviation": 26.66666666666667,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:41:55.389Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3318,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.36,
+    "expected": 2.2,
+    "deviation": 7.272727272727258,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:41:56.548Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3319,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.56,
+    "expected": 1.2,
+    "deviation": 30.00000000000001,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:42:05.418Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3320,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.35,
+    "expected": 2.2,
+    "deviation": 6.818181818181814,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:42:06.571Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3321,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.57,
+    "expected": 1.2,
+    "deviation": 30.833333333333346,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:42:48.369Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3322,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.34,
+    "expected": 2.2,
+    "deviation": 6.363636363636349,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-19T13:42:48.481Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3323,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.23,
+    "expected": 1.2,
+    "deviation": 2.500000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:18:31.325Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3324,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.24,
+    "expected": 1.2,
+    "deviation": 3.3333333333333366,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:18:41.317Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3325,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.23,
+    "expected": 1.2,
+    "deviation": 2.500000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:18:51.399Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3326,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.24,
+    "expected": 1.2,
+    "deviation": 3.3333333333333366,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:19:01.381Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3327,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.56,
+    "expected": 2.5,
+    "deviation": 2.400000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:19:11.382Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3328,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.59,
+    "expected": 2.5,
+    "deviation": 3.5999999999999943,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:19:21.391Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3329,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.16,
+    "expected": 1.2,
+    "deviation": -3.3333333333333366,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:19:31.325Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3330,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.58,
+    "expected": 2.5,
+    "deviation": 3.200000000000003,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:19:31.451Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3331,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.12,
+    "expected": 1.2,
+    "deviation": -6.666666666666654,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:19:41.291Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3332,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.61,
+    "expected": 2.5,
+    "deviation": 4.399999999999995,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:19:41.388Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3333,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.09,
+    "expected": 1.2,
+    "deviation": -9.166666666666657,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:19:51.299Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3334,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.61,
+    "expected": 2.5,
+    "deviation": 4.399999999999995,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:19:51.325Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3335,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.09,
+    "expected": 1.2,
+    "deviation": -9.166666666666657,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:20:01.302Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3336,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.6,
+    "expected": 2.5,
+    "deviation": 4.0000000000000036,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:20:01.387Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3337,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.34,
+    "expected": 2.2,
+    "deviation": 6.363636363636349,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:20:02.502Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3338,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.05,
+    "expected": 1.2,
+    "deviation": -12.499999999999993,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:20:11.309Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3339,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.57,
+    "expected": 2.5,
+    "deviation": 2.7999999999999936,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:20:11.366Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3340,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.02,
+    "expected": 1.2,
+    "deviation": -14.999999999999996,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:20:21.259Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3341,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.34,
+    "expected": 2.2,
+    "deviation": 6.363636363636349,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:20:22.537Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3342,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.03,
+    "expected": 1.2,
+    "deviation": -14.16666666666666,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:20:31.299Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3343,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.84,
+    "expected": 3.0,
+    "deviation": -5.3333333333333375,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:20:31.334Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3344,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.32,
+    "expected": 2.2,
+    "deviation": 5.454545454545439,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:20:32.534Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3345,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.03,
+    "expected": 1.2,
+    "deviation": -14.16666666666666,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:20:41.297Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3346,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.83,
+    "expected": 3.0,
+    "deviation": -5.666666666666664,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:20:41.308Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3347,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.35,
+    "expected": 2.2,
+    "deviation": 6.818181818181814,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:20:41.373Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3348,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.02,
+    "expected": 1.2,
+    "deviation": -14.999999999999996,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:20:51.328Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3349,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.83,
+    "expected": 3.0,
+    "deviation": -5.666666666666664,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:20:51.342Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3350,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.36,
+    "expected": 2.2,
+    "deviation": 7.272727272727258,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:20:52.530Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3351,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.0,
+    "expected": 1.2,
+    "deviation": -16.666666666666664,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:21:01.301Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3352,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.8,
+    "expected": 3.0,
+    "deviation": -6.666666666666672,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:21:01.332Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3353,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.43,
+    "expected": 2.5,
+    "deviation": -2.7999999999999936,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:21:01.361Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3354,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.33,
+    "expected": 2.2,
+    "deviation": 5.909090909090904,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:21:02.480Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3355,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 0.97,
+    "expected": 1.2,
+    "deviation": -19.166666666666664,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:21:11.297Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3356,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.77,
+    "expected": 3.0,
+    "deviation": -7.666666666666666,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:21:11.365Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3357,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.35,
+    "expected": 2.2,
+    "deviation": 6.818181818181814,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:21:12.562Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3358,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.0,
+    "expected": 1.2,
+    "deviation": -16.666666666666664,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:21:21.313Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3359,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.75,
+    "expected": 3.0,
+    "deviation": -8.333333333333332,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:21:21.349Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3360,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.39,
+    "expected": 2.2,
+    "deviation": 8.636363636363633,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:21:21.444Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3361,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 0.95,
+    "expected": 1.2,
+    "deviation": -20.833333333333336,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:21:31.321Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3362,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.77,
+    "expected": 3.0,
+    "deviation": -7.666666666666666,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:21:31.374Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3363,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.42,
+    "expected": 2.2,
+    "deviation": 9.999999999999988,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:21:32.537Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3364,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 0.96,
+    "expected": 1.2,
+    "deviation": -20.0,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:21:41.294Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3365,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.79,
+    "expected": 3.0,
+    "deviation": -6.999999999999999,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:21:41.364Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3366,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.37,
+    "expected": 2.2,
+    "deviation": 7.727272727272723,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:21:42.557Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3367,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 0.93,
+    "expected": 1.2,
+    "deviation": -22.499999999999993,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:21:51.296Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3368,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.8,
+    "expected": 3.0,
+    "deviation": -6.666666666666672,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:21:51.307Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3369,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.42,
+    "expected": 2.2,
+    "deviation": 9.999999999999988,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:21:51.516Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3370,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 0.92,
+    "expected": 1.2,
+    "deviation": -23.33333333333333,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:22:01.259Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3371,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.79,
+    "expected": 3.0,
+    "deviation": -6.999999999999999,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:22:01.328Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3372,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.38,
+    "expected": 2.2,
+    "deviation": 8.181818181818167,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:22:02.507Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3373,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 0.96,
+    "expected": 1.2,
+    "deviation": -20.0,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:22:11.301Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3374,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.74,
+    "expected": 3.0,
+    "deviation": -8.66666666666666,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:22:11.331Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3375,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.37,
+    "expected": 2.2,
+    "deviation": 7.727272727272723,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:22:12.546Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3376,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.72,
+    "expected": 3.0,
+    "deviation": -9.333333333333327,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:22:21.345Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3377,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.44,
+    "expected": 2.5,
+    "deviation": -2.400000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:22:21.372Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3378,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 0.98,
+    "expected": 1.2,
+    "deviation": -18.333333333333332,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:22:21.377Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3379,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.41,
+    "expected": 2.2,
+    "deviation": 9.545454545454543,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:22:22.586Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3380,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 0.96,
+    "expected": 1.2,
+    "deviation": -20.0,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:22:31.318Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3381,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.74,
+    "expected": 3.0,
+    "deviation": -8.66666666666666,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:22:31.323Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3382,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.4,
+    "expected": 2.5,
+    "deviation": -4.0000000000000036,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:22:31.381Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3383,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.46,
+    "expected": 2.2,
+    "deviation": 11.818181818181808,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:22:32.533Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3384,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 0.91,
+    "expected": 1.2,
+    "deviation": -24.16666666666666,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:22:41.319Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3385,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.74,
+    "expected": 3.0,
+    "deviation": -8.66666666666666,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:22:41.370Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3386,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.42,
+    "expected": 2.5,
+    "deviation": -3.200000000000003,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:22:41.376Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3387,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.49,
+    "expected": 2.2,
+    "deviation": 13.181818181818183,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:22:42.545Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3388,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 0.92,
+    "expected": 1.2,
+    "deviation": -23.33333333333333,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:22:51.318Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3389,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.71,
+    "expected": 3.0,
+    "deviation": -9.666666666666668,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:22:51.344Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3390,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.41,
+    "expected": 2.5,
+    "deviation": -3.5999999999999943,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:22:51.377Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3391,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.5,
+    "expected": 2.2,
+    "deviation": 13.636363636363628,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:22:52.540Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3392,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 0.95,
+    "expected": 1.2,
+    "deviation": -20.833333333333336,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:23:01.257Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3393,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.76,
+    "expected": 3.0,
+    "deviation": -8.000000000000007,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:23:01.346Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3394,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.37,
+    "expected": 2.5,
+    "deviation": -5.199999999999996,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:23:01.458Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3395,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.49,
+    "expected": 2.2,
+    "deviation": 13.181818181818183,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:23:02.589Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3396,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 0.9,
+    "expected": 1.2,
+    "deviation": -24.999999999999993,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:23:11.322Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3397,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.75,
+    "expected": 3.0,
+    "deviation": -8.333333333333332,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:23:11.353Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3398,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.34,
+    "expected": 2.5,
+    "deviation": -6.400000000000006,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:23:11.381Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3399,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.46,
+    "expected": 2.2,
+    "deviation": 11.818181818181808,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:23:12.565Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3400,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 0.89,
+    "expected": 1.2,
+    "deviation": -25.83333333333333,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:23:21.320Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3401,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.73,
+    "expected": 3.0,
+    "deviation": -9.000000000000002,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:23:21.346Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3402,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.33,
+    "expected": 2.5,
+    "deviation": -6.799999999999998,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:23:21.362Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3403,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.47,
+    "expected": 2.2,
+    "deviation": 12.272727272727273,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:23:22.553Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3404,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 0.93,
+    "expected": 1.2,
+    "deviation": -22.499999999999993,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:23:31.318Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3405,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.69,
+    "expected": 3.0,
+    "deviation": -10.333333333333334,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:23:31.322Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3406,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.34,
+    "expected": 2.5,
+    "deviation": -6.400000000000006,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:23:31.394Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3407,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.49,
+    "expected": 2.2,
+    "deviation": 13.181818181818183,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:23:31.454Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3408,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 0.9,
+    "expected": 1.2,
+    "deviation": -24.999999999999993,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:23:41.257Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3409,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.65,
+    "expected": 3.0,
+    "deviation": -11.66666666666667,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:23:41.312Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3410,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.29,
+    "expected": 2.5,
+    "deviation": -8.399999999999999,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:23:41.344Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3411,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.51,
+    "expected": 2.2,
+    "deviation": 14.09090909090907,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:23:42.574Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3412,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 0.93,
+    "expected": 1.2,
+    "deviation": -22.499999999999993,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:23:51.321Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3413,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.69,
+    "expected": 3.0,
+    "deviation": -10.333333333333334,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:23:51.347Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3414,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.27,
+    "expected": 2.5,
+    "deviation": -9.2,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:23:51.393Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3415,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.5,
+    "expected": 2.2,
+    "deviation": 13.636363636363628,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:23:52.537Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3416,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 0.97,
+    "expected": 1.2,
+    "deviation": -19.166666666666664,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:24:01.302Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3417,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.67,
+    "expected": 3.0,
+    "deviation": -11.000000000000004,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:24:01.325Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3418,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.24,
+    "expected": 2.5,
+    "deviation": -10.399999999999991,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:24:01.404Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3419,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.46,
+    "expected": 2.2,
+    "deviation": 11.818181818181808,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:24:02.559Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3420,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.0,
+    "expected": 1.2,
+    "deviation": -16.666666666666664,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:24:11.300Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3421,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.63,
+    "expected": 3.0,
+    "deviation": -12.333333333333336,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:24:11.392Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3422,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.24,
+    "expected": 2.5,
+    "deviation": -10.399999999999991,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:24:11.436Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3423,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.45,
+    "expected": 2.2,
+    "deviation": 11.363636363636363,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:24:12.605Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3424,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 0.96,
+    "expected": 1.2,
+    "deviation": -20.0,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:24:21.323Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3425,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.68,
+    "expected": 3.0,
+    "deviation": -10.666666666666663,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:24:21.387Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3426,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.26,
+    "expected": 2.5,
+    "deviation": -9.600000000000009,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:24:21.390Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3427,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.46,
+    "expected": 2.2,
+    "deviation": 11.818181818181808,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:24:22.559Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3428,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.0,
+    "expected": 1.2,
+    "deviation": -16.666666666666664,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:24:31.323Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3429,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.7,
+    "expected": 3.0,
+    "deviation": -9.999999999999993,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:24:31.345Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3430,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.25,
+    "expected": 2.5,
+    "deviation": -10.0,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:24:31.422Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3431,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.41,
+    "expected": 2.2,
+    "deviation": 9.545454545454543,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:24:32.467Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3432,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 0.98,
+    "expected": 1.2,
+    "deviation": -18.333333333333332,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:24:41.298Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3433,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.73,
+    "expected": 3.0,
+    "deviation": -9.000000000000002,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:24:41.344Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3434,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.25,
+    "expected": 2.5,
+    "deviation": -10.0,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:24:41.359Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3435,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.39,
+    "expected": 2.2,
+    "deviation": 8.636363636363633,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-20T05:24:42.566Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3436,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.16,
+    "expected": 1.2,
+    "deviation": -3.3333333333333366,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:28:22.009Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3437,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.42,
+    "expected": 2.5,
+    "deviation": -3.200000000000003,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:28:22.196Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3438,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.25,
+    "expected": 1.2,
+    "deviation": 4.1666666666666705,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:28:37.026Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3439,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.17,
+    "expected": 1.2,
+    "deviation": -2.500000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:28:45.538Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3440,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.43,
+    "expected": 2.5,
+    "deviation": -2.7999999999999936,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:28:45.706Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3441,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.13,
+    "expected": 1.2,
+    "deviation": -5.833333333333339,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:28:47.792Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3442,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.17,
+    "expected": 1.2,
+    "deviation": -2.500000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:28:48.449Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3443,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.43,
+    "expected": 2.5,
+    "deviation": -2.7999999999999936,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:28:48.656Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3444,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.23,
+    "expected": 1.2,
+    "deviation": 2.500000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:28:51.291Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3445,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.27,
+    "expected": 1.2,
+    "deviation": 5.833333333333339,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:28:55.469Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3446,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.24,
+    "expected": 1.2,
+    "deviation": 3.3333333333333366,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:28:55.665Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3447,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.26,
+    "expected": 1.2,
+    "deviation": 5.000000000000004,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:28:58.412Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3448,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.56,
+    "expected": 2.5,
+    "deviation": 2.400000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:28:58.564Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3449,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.23,
+    "expected": 1.2,
+    "deviation": 2.500000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:01.196Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3450,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.56,
+    "expected": 2.5,
+    "deviation": 2.400000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:01.759Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3451,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.25,
+    "expected": 1.2,
+    "deviation": 4.1666666666666705,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:03.807Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3452,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.18,
+    "expected": 3.0,
+    "deviation": 6.000000000000005,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:03.861Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3453,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.56,
+    "expected": 2.5,
+    "deviation": 2.400000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:04.168Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3454,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.26,
+    "expected": 1.2,
+    "deviation": 5.000000000000004,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:06.735Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3455,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.18,
+    "expected": 3.0,
+    "deviation": 6.000000000000005,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:06.860Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3456,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.24,
+    "expected": 1.2,
+    "deviation": 3.3333333333333366,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:07.616Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3457,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.44,
+    "expected": 2.5,
+    "deviation": -2.400000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:09.970Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3458,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.23,
+    "expected": 1.2,
+    "deviation": 2.500000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:11.958Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3459,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.42,
+    "expected": 2.5,
+    "deviation": -3.200000000000003,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:14.395Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3460,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.16,
+    "expected": 1.2,
+    "deviation": -3.3333333333333366,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:15.486Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3461,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.16,
+    "expected": 3.0,
+    "deviation": 5.3333333333333375,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:15.629Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3462,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.4,
+    "expected": 2.5,
+    "deviation": -4.0000000000000036,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:15.718Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3463,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.42,
+    "expected": 2.5,
+    "deviation": -3.200000000000003,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:17.910Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3464,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.17,
+    "expected": 1.2,
+    "deviation": -2.500000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:19.841Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3465,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.44,
+    "expected": 2.5,
+    "deviation": -2.400000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:20.106Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3466,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.44,
+    "expected": 2.5,
+    "deviation": -2.400000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:22.209Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3467,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.17,
+    "expected": 1.2,
+    "deviation": -2.500000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:23.856Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3468,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.4,
+    "expected": 2.5,
+    "deviation": -4.0000000000000036,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:24.060Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3469,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.38,
+    "expected": 2.5,
+    "deviation": -4.800000000000004,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:26.394Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3470,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.34,
+    "expected": 2.2,
+    "deviation": 6.363636363636349,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:26.530Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3471,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.24,
+    "expected": 1.2,
+    "deviation": 3.3333333333333366,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:27.838Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3472,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.39,
+    "expected": 2.5,
+    "deviation": -4.399999999999995,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:28.100Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3473,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.36,
+    "expected": 2.2,
+    "deviation": 7.272727272727258,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:28.224Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3474,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.26,
+    "expected": 1.2,
+    "deviation": 5.000000000000004,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:29.750Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3475,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.4,
+    "expected": 2.5,
+    "deviation": -4.0000000000000036,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:29.995Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3476,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.35,
+    "expected": 2.2,
+    "deviation": 6.818181818181814,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:30.085Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3477,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.27,
+    "expected": 1.2,
+    "deviation": 5.833333333333339,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:32.009Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3478,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.41,
+    "expected": 2.5,
+    "deviation": -3.5999999999999943,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:32.271Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3479,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.29,
+    "expected": 1.2,
+    "deviation": 7.500000000000007,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:34.031Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3480,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.39,
+    "expected": 2.5,
+    "deviation": -4.399999999999995,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:34.361Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3481,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.35,
+    "expected": 2.2,
+    "deviation": 6.818181818181814,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:34.552Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3482,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.27,
+    "expected": 1.2,
+    "deviation": 5.833333333333339,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:36.201Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3483,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.37,
+    "expected": 2.5,
+    "deviation": -5.199999999999996,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:36.415Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3484,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.32,
+    "expected": 2.2,
+    "deviation": 5.454545454545439,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:36.495Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3485,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.32,
+    "expected": 1.2,
+    "deviation": 10.000000000000009,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:38.426Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3486,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.17,
+    "expected": 3.0,
+    "deviation": 5.666666666666664,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:38.549Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3487,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.38,
+    "expected": 2.5,
+    "deviation": -4.800000000000004,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:38.695Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3488,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.35,
+    "expected": 2.2,
+    "deviation": 6.818181818181814,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:38.813Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3489,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.34,
+    "expected": 1.2,
+    "deviation": 11.666666666666679,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:39.633Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3490,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.19,
+    "expected": 3.0,
+    "deviation": 6.333333333333331,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:40.622Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3491,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.34,
+    "expected": 2.5,
+    "deviation": -6.400000000000006,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:40.765Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3492,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.39,
+    "expected": 2.2,
+    "deviation": 8.636363636363633,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:41.042Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3493,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.3,
+    "expected": 1.2,
+    "deviation": 8.333333333333341,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:43.680Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3494,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.31,
+    "expected": 2.5,
+    "deviation": -7.599999999999999,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:43.957Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3495,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.4,
+    "expected": 2.2,
+    "deviation": 9.09090909090908,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:44.592Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3496,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.33,
+    "expected": 1.2,
+    "deviation": 10.833333333333343,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:46.733Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3497,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.19,
+    "expected": 3.0,
+    "deviation": 6.333333333333331,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:46.833Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3498,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.35,
+    "expected": 2.5,
+    "deviation": -5.9999999999999964,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:46.926Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3499,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.42,
+    "expected": 2.2,
+    "deviation": 9.999999999999988,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:47.180Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3500,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.34,
+    "expected": 1.2,
+    "deviation": 11.666666666666679,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:49.771Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3501,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.2,
+    "expected": 3.0,
+    "deviation": 6.666666666666672,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:50.259Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3502,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.32,
+    "expected": 2.5,
+    "deviation": -7.200000000000006,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:50.397Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3503,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.41,
+    "expected": 2.2,
+    "deviation": 9.545454545454543,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:50.525Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3504,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.34,
+    "expected": 1.2,
+    "deviation": 11.666666666666679,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:52.557Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3505,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.21,
+    "expected": 3.0,
+    "deviation": 6.999999999999999,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:52.683Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3506,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.32,
+    "expected": 2.5,
+    "deviation": -7.200000000000006,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:52.774Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3507,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.46,
+    "expected": 2.2,
+    "deviation": 11.818181818181808,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:52.877Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3508,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.33,
+    "expected": 1.2,
+    "deviation": 10.833333333333343,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:55.897Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3509,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.25,
+    "expected": 3.0,
+    "deviation": 8.333333333333332,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:56.517Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3510,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.33,
+    "expected": 2.5,
+    "deviation": -6.799999999999998,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:56.692Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3511,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.46,
+    "expected": 2.2,
+    "deviation": 11.818181818181808,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:57.384Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3512,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.29,
+    "expected": 1.2,
+    "deviation": 7.500000000000007,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:58.327Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3513,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.22,
+    "expected": 3.0,
+    "deviation": 7.33333333333334,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:58.478Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3514,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.28,
+    "expected": 2.5,
+    "deviation": -8.800000000000008,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:58.605Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3515,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.51,
+    "expected": 2.2,
+    "deviation": 14.09090909090907,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:29:59.759Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3516,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.29,
+    "expected": 1.2,
+    "deviation": 7.500000000000007,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:01.719Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3517,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.18,
+    "expected": 3.0,
+    "deviation": 6.000000000000005,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:01.847Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3518,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.3,
+    "expected": 2.5,
+    "deviation": -8.000000000000007,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:02.996Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3519,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.49,
+    "expected": 2.2,
+    "deviation": 13.181818181818183,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:04.629Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3520,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.28,
+    "expected": 1.2,
+    "deviation": 6.666666666666673,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:05.561Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3521,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.32,
+    "expected": 2.5,
+    "deviation": -7.200000000000006,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:05.712Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3522,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.5,
+    "expected": 2.2,
+    "deviation": 13.636363636363628,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:05.794Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3523,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.26,
+    "expected": 1.2,
+    "deviation": 5.000000000000004,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:08.131Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3524,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.2,
+    "expected": 3.0,
+    "deviation": 6.666666666666672,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:08.254Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3525,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.36,
+    "expected": 2.5,
+    "deviation": -5.600000000000005,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:08.394Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3526,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.48,
+    "expected": 2.2,
+    "deviation": 12.727272727272718,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:08.643Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3527,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.22,
+    "expected": 3.0,
+    "deviation": 7.33333333333334,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:13.215Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3528,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.32,
+    "expected": 2.5,
+    "deviation": -7.200000000000006,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:13.354Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3529,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.5,
+    "expected": 2.2,
+    "deviation": 13.636363636363628,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:13.485Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3530,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.26,
+    "expected": 3.0,
+    "deviation": 8.66666666666666,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:16.610Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3531,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.34,
+    "expected": 2.5,
+    "deviation": -6.400000000000006,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:17.310Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3532,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.52,
+    "expected": 2.2,
+    "deviation": 14.545454545454536,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:17.433Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3533,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.31,
+    "expected": 3.0,
+    "deviation": 10.333333333333334,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:19.419Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3534,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.32,
+    "expected": 2.5,
+    "deviation": -7.200000000000006,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:21.047Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3535,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.48,
+    "expected": 2.2,
+    "deviation": 12.727272727272718,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:21.168Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3536,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.14,
+    "expected": 1.2,
+    "deviation": -5.000000000000004,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:21.307Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3537,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.33,
+    "expected": 3.0,
+    "deviation": 11.000000000000004,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:23.171Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3538,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.28,
+    "expected": 2.5,
+    "deviation": -8.800000000000008,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:24.054Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3539,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.5,
+    "expected": 2.2,
+    "deviation": 13.636363636363628,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:24.179Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3540,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.15,
+    "expected": 1.2,
+    "deviation": -4.1666666666666705,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:24.245Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3541,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.31,
+    "expected": 3.0,
+    "deviation": 10.333333333333334,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:26.862Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3542,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.31,
+    "expected": 2.5,
+    "deviation": -7.599999999999999,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:27.095Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3543,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.46,
+    "expected": 2.2,
+    "deviation": 11.818181818181808,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:27.224Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3544,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.13,
+    "expected": 1.2,
+    "deviation": -5.833333333333339,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:27.827Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3545,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.33,
+    "expected": 3.0,
+    "deviation": 11.000000000000004,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:30.010Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3546,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.28,
+    "expected": 2.5,
+    "deviation": -8.800000000000008,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:30.152Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3547,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.51,
+    "expected": 2.2,
+    "deviation": 14.09090909090907,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:30.284Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3548,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.37,
+    "expected": 3.0,
+    "deviation": 12.333333333333336,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:31.854Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3549,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.3,
+    "expected": 2.5,
+    "deviation": -8.000000000000007,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:32.221Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3550,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.48,
+    "expected": 2.2,
+    "deviation": 12.727272727272718,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:32.563Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3551,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.39,
+    "expected": 3.0,
+    "deviation": 13.000000000000004,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:34.280Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3552,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.32,
+    "expected": 2.5,
+    "deviation": -7.200000000000006,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:34.818Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3553,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.52,
+    "expected": 2.2,
+    "deviation": 14.545454545454536,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:35.599Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3554,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.42,
+    "expected": 3.0,
+    "deviation": 13.999999999999998,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:38.369Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3555,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.37,
+    "expected": 2.5,
+    "deviation": -5.199999999999996,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:38.756Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3556,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.49,
+    "expected": 2.2,
+    "deviation": 13.181818181818183,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:38.891Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3557,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.45,
+    "expected": 3.0,
+    "deviation": 15.000000000000005,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:41.830Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3558,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.41,
+    "expected": 2.5,
+    "deviation": -3.5999999999999943,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:43.272Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3559,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.45,
+    "expected": 2.2,
+    "deviation": 11.363636363636363,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:43.403Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3560,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.49,
+    "expected": 3.0,
+    "deviation": 16.333333333333343,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:43.917Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3561,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.43,
+    "expected": 2.5,
+    "deviation": -2.7999999999999936,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:45.123Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3562,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.43,
+    "expected": 2.2,
+    "deviation": 10.454545454545453,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:46.095Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3563,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.54,
+    "expected": 3.0,
+    "deviation": 18.000000000000004,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:46.631Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3564,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.4,
+    "expected": 2.5,
+    "deviation": -4.0000000000000036,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:46.763Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3565,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.46,
+    "expected": 2.2,
+    "deviation": 11.818181818181808,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:47.963Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3566,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.24,
+    "expected": 1.2,
+    "deviation": 3.3333333333333366,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:49.758Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3567,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.56,
+    "expected": 3.0,
+    "deviation": 18.666666666666668,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:50.319Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3568,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.42,
+    "expected": 2.5,
+    "deviation": -3.200000000000003,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:51.358Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3569,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.5,
+    "expected": 2.2,
+    "deviation": 13.636363636363628,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:51.999Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3570,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.24,
+    "expected": 1.2,
+    "deviation": 3.3333333333333366,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:53.646Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3571,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.61,
+    "expected": 3.0,
+    "deviation": 20.33333333333333,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:53.759Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3572,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.37,
+    "expected": 2.5,
+    "deviation": -5.199999999999996,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:54.432Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3573,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.55,
+    "expected": 2.2,
+    "deviation": 15.909090909090892,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:55.597Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3574,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.25,
+    "expected": 1.2,
+    "deviation": 4.1666666666666705,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:56.055Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3575,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.63,
+    "expected": 3.0,
+    "deviation": 20.999999999999996,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:56.189Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3576,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.34,
+    "expected": 2.5,
+    "deviation": -6.400000000000006,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:57.401Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3577,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.58,
+    "expected": 2.2,
+    "deviation": 17.272727272727266,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:58.342Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3578,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.61,
+    "expected": 3.0,
+    "deviation": 20.33333333333333,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:30:59.527Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3579,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.36,
+    "expected": 2.5,
+    "deviation": -5.600000000000005,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:00.504Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3580,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.56,
+    "expected": 2.2,
+    "deviation": 16.36363636363636,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:01.154Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3581,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.23,
+    "expected": 1.2,
+    "deviation": 2.500000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:03.507Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3582,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.61,
+    "expected": 3.0,
+    "deviation": 20.33333333333333,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:03.635Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3583,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.38,
+    "expected": 2.5,
+    "deviation": -4.800000000000004,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:03.762Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3584,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.59,
+    "expected": 2.2,
+    "deviation": 17.727272727272712,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:04.909Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3585,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.23,
+    "expected": 1.2,
+    "deviation": 2.500000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:06.205Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3586,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.62,
+    "expected": 3.0,
+    "deviation": 20.666666666666668,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:06.343Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3587,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.43,
+    "expected": 2.5,
+    "deviation": -2.7999999999999936,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:06.881Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3588,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.6,
+    "expected": 2.2,
+    "deviation": 18.181818181818176,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:07.960Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3589,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.25,
+    "expected": 1.2,
+    "deviation": 4.1666666666666705,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:09.598Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3590,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.64,
+    "expected": 3.0,
+    "deviation": 21.333333333333336,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:11.232Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3591,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.6,
+    "expected": 2.2,
+    "deviation": 18.181818181818176,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:12.988Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3592,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.29,
+    "expected": 1.2,
+    "deviation": 7.500000000000007,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:13.048Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3593,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.67,
+    "expected": 3.0,
+    "deviation": 22.33333333333333,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:13.168Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3594,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.43,
+    "expected": 2.5,
+    "deviation": -2.7999999999999936,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:13.285Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3595,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.59,
+    "expected": 2.2,
+    "deviation": 17.727272727272712,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:14.159Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3596,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.34,
+    "expected": 1.2,
+    "deviation": 11.666666666666679,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:16.523Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3597,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.66,
+    "expected": 3.0,
+    "deviation": 22.000000000000007,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:16.661Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3598,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.38,
+    "expected": 2.5,
+    "deviation": -4.800000000000004,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:17.670Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3599,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.62,
+    "expected": 2.2,
+    "deviation": 19.090909090909086,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:18.243Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3600,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.36,
+    "expected": 1.2,
+    "deviation": 13.333333333333346,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:20.915Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3601,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.67,
+    "expected": 3.0,
+    "deviation": 22.33333333333333,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:21.572Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3602,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.41,
+    "expected": 2.5,
+    "deviation": -3.5999999999999943,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:21.724Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3603,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.65,
+    "expected": 2.2,
+    "deviation": 20.454545454545443,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:22.163Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3604,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.31,
+    "expected": 1.2,
+    "deviation": 9.166666666666675,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:25.991Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3605,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.67,
+    "expected": 3.0,
+    "deviation": 22.33333333333333,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:26.114Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3606,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.38,
+    "expected": 2.5,
+    "deviation": -4.800000000000004,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:26.238Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3607,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.68,
+    "expected": 2.2,
+    "deviation": 21.818181818181813,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:26.371Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3608,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.32,
+    "expected": 1.2,
+    "deviation": 10.000000000000009,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:26.794Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3609,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.66,
+    "expected": 3.0,
+    "deviation": 22.000000000000007,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:28.065Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3610,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.36,
+    "expected": 2.5,
+    "deviation": -5.600000000000005,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:28.785Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3611,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.65,
+    "expected": 2.2,
+    "deviation": 20.454545454545443,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:29.985Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3612,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.29,
+    "expected": 1.2,
+    "deviation": 7.500000000000007,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:30.056Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3613,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.71,
+    "expected": 3.0,
+    "deviation": 23.666666666666668,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:30.370Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3614,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.35,
+    "expected": 2.5,
+    "deviation": -5.9999999999999964,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:31.070Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3615,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.69,
+    "expected": 2.2,
+    "deviation": 22.27272727272726,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:32.238Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3616,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.26,
+    "expected": 1.2,
+    "deviation": 5.000000000000004,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:33.258Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3617,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.69,
+    "expected": 3.0,
+    "deviation": 23.0,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:34.019Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3618,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.39,
+    "expected": 2.5,
+    "deviation": -4.399999999999995,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:34.634Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3619,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.64,
+    "expected": 2.2,
+    "deviation": 19.999999999999996,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:35.298Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3620,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.25,
+    "expected": 1.2,
+    "deviation": 4.1666666666666705,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:36.256Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3621,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.44,
+    "expected": 2.5,
+    "deviation": -2.400000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:37.634Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3622,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.26,
+    "expected": 1.2,
+    "deviation": 5.000000000000004,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:37.741Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3623,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.24,
+    "expected": 1.2,
+    "deviation": 3.3333333333333366,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:49.345Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3624,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.27,
+    "expected": 1.2,
+    "deviation": 5.833333333333339,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:54.321Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3625,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.23,
+    "expected": 1.2,
+    "deviation": 2.500000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:31:59.420Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3626,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.26,
+    "expected": 1.2,
+    "deviation": 5.000000000000004,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:32:04.362Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3627,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.27,
+    "expected": 1.2,
+    "deviation": 5.833333333333339,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:32:09.329Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3628,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.23,
+    "expected": 1.2,
+    "deviation": 2.500000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:32:14.435Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3629,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.08,
+    "expected": 2.2,
+    "deviation": -5.4545454545454595,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:32:16.742Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3630,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.58,
+    "expected": 2.5,
+    "deviation": 3.200000000000003,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:32:20.095Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3631,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.06,
+    "expected": 2.2,
+    "deviation": -6.363636363636369,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:32:20.213Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3632,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.61,
+    "expected": 2.5,
+    "deviation": 4.399999999999995,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:32:24.470Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3633,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.09,
+    "expected": 2.2,
+    "deviation": -5.000000000000014,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:32:26.983Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3634,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.63,
+    "expected": 2.5,
+    "deviation": 5.199999999999996,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:32:29.464Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3635,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.24,
+    "expected": 1.2,
+    "deviation": 3.3333333333333366,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:32:34.352Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3636,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.58,
+    "expected": 2.5,
+    "deviation": 3.200000000000003,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:32:34.498Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3637,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.23,
+    "expected": 1.2,
+    "deviation": 2.500000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:32:39.320Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3638,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.59,
+    "expected": 2.5,
+    "deviation": 3.5999999999999943,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:32:39.430Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3639,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.62,
+    "expected": 2.5,
+    "deviation": 4.800000000000004,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:32:44.453Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3640,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.57,
+    "expected": 2.5,
+    "deviation": 2.7999999999999936,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:32:49.486Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3641,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.59,
+    "expected": 2.5,
+    "deviation": 3.5999999999999943,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:32:54.496Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3642,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.15,
+    "expected": 1.2,
+    "deviation": -4.1666666666666705,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:32:59.379Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3643,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.63,
+    "expected": 2.5,
+    "deviation": 5.199999999999996,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:32:59.626Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3644,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.15,
+    "expected": 1.2,
+    "deviation": -4.1666666666666705,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:33:04.350Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3645,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.63,
+    "expected": 2.5,
+    "deviation": 5.199999999999996,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:33:04.493Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3646,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.17,
+    "expected": 1.2,
+    "deviation": -2.500000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:33:09.284Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3647,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.67,
+    "expected": 2.5,
+    "deviation": 6.799999999999998,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:33:09.477Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3648,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.16,
+    "expected": 3.0,
+    "deviation": 5.3333333333333375,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:33:14.402Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3649,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.69,
+    "expected": 2.5,
+    "deviation": 7.599999999999999,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:33:14.446Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3650,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.09,
+    "expected": 2.2,
+    "deviation": -5.000000000000014,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:33:16.793Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3651,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.15,
+    "expected": 1.2,
+    "deviation": -4.1666666666666705,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:33:19.377Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3652,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.66,
+    "expected": 2.5,
+    "deviation": 6.400000000000006,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:33:19.497Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3653,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.06,
+    "expected": 2.2,
+    "deviation": -6.363636363636369,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:33:19.620Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3654,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.17,
+    "expected": 1.2,
+    "deviation": -2.500000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:33:24.394Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3655,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.16,
+    "expected": 3.0,
+    "deviation": 5.3333333333333375,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:33:24.407Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3656,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.64,
+    "expected": 2.5,
+    "deviation": 5.600000000000005,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:33:24.490Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3657,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.6,
+    "expected": 2.5,
+    "deviation": 4.0000000000000036,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:33:29.575Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3658,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.25,
+    "expected": 1.2,
+    "deviation": 4.1666666666666705,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:33:34.380Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3659,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.61,
+    "expected": 2.5,
+    "deviation": 4.399999999999995,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:33:34.495Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3660,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.28,
+    "expected": 1.2,
+    "deviation": 6.666666666666673,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:33:39.390Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3661,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.57,
+    "expected": 2.5,
+    "deviation": 2.7999999999999936,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:33:39.479Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3662,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.25,
+    "expected": 1.2,
+    "deviation": 4.1666666666666705,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:33:44.421Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3663,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.17,
+    "expected": 3.0,
+    "deviation": 5.666666666666664,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:33:44.458Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3664,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.22,
+    "expected": 3.0,
+    "deviation": 7.33333333333334,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:33:49.382Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3665,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.17,
+    "expected": 1.2,
+    "deviation": -2.500000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:33:54.380Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3666,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.19,
+    "expected": 3.0,
+    "deviation": 6.333333333333331,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:33:54.427Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3667,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.16,
+    "expected": 1.2,
+    "deviation": -3.3333333333333366,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:33:59.396Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3668,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.56,
+    "expected": 2.5,
+    "deviation": 2.400000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:33:59.462Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3669,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.09,
+    "expected": 2.2,
+    "deviation": -5.000000000000014,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:34:01.973Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3670,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 3.19,
+    "expected": 3.0,
+    "deviation": 6.333333333333331,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:34:04.387Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3671,
+  "fields": {
+    "sensor": 20,
+    "type": "Drift",
+    "value": 2.08,
+    "expected": 2.2,
+    "deviation": -5.4545454545454595,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2025-09-27T20:34:06.877Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3672,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.15,
+    "expected": 1.2,
+    "deviation": -4.1666666666666705,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2026-01-05T19:46:22.619Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3673,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.25,
+    "expected": 1.2,
+    "deviation": 4.1666666666666705,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2026-01-05T19:46:32.626Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3674,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.29,
+    "expected": 1.2,
+    "deviation": 7.500000000000007,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2026-01-05T19:46:37.598Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3675,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.44,
+    "expected": 2.5,
+    "deviation": -2.400000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2026-01-05T19:46:37.647Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3676,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.32,
+    "expected": 1.2,
+    "deviation": 10.000000000000009,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2026-01-05T19:46:42.644Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3677,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.31,
+    "expected": 1.2,
+    "deviation": 9.166666666666675,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2026-01-05T19:46:47.551Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3678,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.27,
+    "expected": 1.2,
+    "deviation": 5.833333333333339,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2026-01-05T19:46:52.571Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3679,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.27,
+    "expected": 1.2,
+    "deviation": 5.833333333333339,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2026-01-05T19:46:57.639Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3680,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.44,
+    "expected": 2.5,
+    "deviation": -2.400000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2026-01-05T19:46:57.663Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3681,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.39,
+    "expected": 2.5,
+    "deviation": -4.399999999999995,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2026-01-05T19:47:02.646Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3682,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.25,
+    "expected": 1.2,
+    "deviation": 4.1666666666666705,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2026-01-05T19:47:02.679Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3683,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.24,
+    "expected": 1.2,
+    "deviation": 3.3333333333333366,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2026-01-05T19:47:07.591Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3684,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.83,
+    "expected": 3.0,
+    "deviation": -5.666666666666664,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2026-01-05T19:47:07.623Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3685,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.34,
+    "expected": 2.5,
+    "deviation": -6.400000000000006,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2026-01-05T19:47:07.637Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3686,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.25,
+    "expected": 1.2,
+    "deviation": 4.1666666666666705,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2026-01-05T19:47:12.609Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3687,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.79,
+    "expected": 3.0,
+    "deviation": -6.999999999999999,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2026-01-05T19:47:12.633Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3688,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.35,
+    "expected": 2.5,
+    "deviation": -5.9999999999999964,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2026-01-05T19:47:12.661Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3689,
+  "fields": {
+    "sensor": 15,
+    "type": "Drift",
+    "value": 2.82,
+    "expected": 3.0,
+    "deviation": -6.000000000000005,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2026-01-05T19:47:17.611Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3690,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.32,
+    "expected": 2.5,
+    "deviation": -7.200000000000006,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2026-01-05T19:47:17.625Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3691,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.24,
+    "expected": 1.2,
+    "deviation": 3.3333333333333366,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2026-01-05T19:47:17.662Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3692,
+  "fields": {
+    "sensor": 13,
+    "type": "Drift",
+    "value": 1.23,
+    "expected": 1.2,
+    "deviation": 2.500000000000002,
+    "severity": "High",
+    "resolved": false,
+    "timestamp": "2026-01-05T19:47:22.613Z"
+  }
+},
+{
+  "model": "sensors.anomaly",
+  "pk": 3693,
+  "fields": {
+    "sensor": 18,
+    "type": "Drift",
+    "value": 2.37,
+    "expected": 2.5,
+    "deviation": -5.199999999999996,
+    "severity": "Critical",
+    "resolved": false,
+    "timestamp": "2026-01-05T19:47:22.674Z"
+  }
+}
+]
