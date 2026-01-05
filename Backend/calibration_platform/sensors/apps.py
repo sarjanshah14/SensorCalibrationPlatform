@@ -6,7 +6,7 @@ class SensorsConfig(AppConfig):
     name = "sensors"
 
     def ready(self):
-        # Only run on Render
+        # Run only on Render
         if os.environ.get("RENDER") != "true":
             return
 
@@ -14,30 +14,21 @@ class SensorsConfig(AppConfig):
             from django.core.management import call_command
             from django.db import connection
 
-            def table_exists(table_name):
-                with connection.cursor() as cursor:
-                    cursor.execute(
-                        "SELECT COUNT(*) FROM sqlite_master WHERE type='table' AND name=%s;",
-                        [table_name],
-                    )
-                    return cursor.fetchone()[0] == 1
+            with connection.cursor() as cursor:
+                cursor.execute(
+                    "SELECT COUNT(*) FROM sqlite_master WHERE type='table' AND name='sensors_sensor';"
+                )
+                table_exists = cursor.fetchone()[0]
 
-            def table_is_empty(table_name):
-                with connection.cursor() as cursor:
-                    cursor.execute(f"SELECT COUNT(*) FROM {table_name};")
-                    return cursor.fetchone()[0] == 0
+            if not table_exists:
+                return
 
-            # Order MATTERS (foreign keys)
-            fixtures = [
-                ("sensors_sensor", "sensors.json"),
-                ("sensors_reading", "readings.json"),
-                ("sensors_calibration", "calibrations.json"),
-                ("sensors_anomaly", "anomalies.json"),
-            ]
+            with connection.cursor() as cursor:
+                cursor.execute("SELECT COUNT(*) FROM sensors_sensor;")
+                count = cursor.fetchone()[0]
 
-            for table, fixture in fixtures:
-                if table_exists(table) and table_is_empty(table):
-                    call_command("loaddata", fixture, verbosity=0)
+            if count == 0:
+                call_command("loaddata", "sensors.json", verbosity=0)
 
         except Exception as e:
-            print("Auto-load skipped:", e)
+            print("Sensor auto-load skipped:", e)
