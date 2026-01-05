@@ -14,6 +14,7 @@ import {
 } from "lucide-react";
 import axios from 'axios';
 import { useToast } from "@/hooks/use-toast";
+import API_BASE_URL from '@/lib/api';
 
 interface Sensor {
   id: number;
@@ -75,8 +76,8 @@ const MLAnalytics: React.FC = () => {
   const fetchMLData = async () => {
     try {
       const [sensorsRes, analyticsRes] = await Promise.all([
-        axios.get('http://127.0.0.1:8000/api/sensors/'),
-        axios.get('http://127.0.0.1:8000/api/ml/analytics/')
+        axios.get(`${API_BASE_URL}/api/sensors/`),
+        axios.get(`${API_BASE_URL}/api/ml/analytics/`)
       ]);
 
       setSensors(sensorsRes.data);
