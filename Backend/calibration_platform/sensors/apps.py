@@ -6,19 +6,29 @@ class SensorsConfig(AppConfig):
     name = "sensors"
 
     def ready(self):
-        if not os.environ.get("RENDER"):
+        # Run only on Render
+        if os.environ.get("RENDER") != "true":
             return
 
         try:
-            from django.contrib.auth import get_user_model
-            User = get_user_model()
+            from django.core.management import call_command
+            from django.db import connection
 
-            if not User.objects.filter(username="admin").exists():
-                User.objects.create_superuser(
-                    username="admin",
-                    email="admin@example.com",
-                    password="admin123"
+            with connection.cursor() as cursor:
+                cursor.execute(
+                    "SELECT COUNT(*) FROM sqlite_master WHERE type='table' AND name='sensors_sensor';"
                 )
-        except Exception:
-            # Avoid crashing Gunicorn
-            pass
+                table_exists = cursor.fetchone()[0]
+
+            if not table_exists:
+                return
+
+            with connection.cursor() as cursor:
+                cursor.execute("SELECT COUNT(*) FROM sensors_sensor;")
+                count = cursor.fetchone()[0]
+
+            if count == 0:
+                call_command("loaddata", "sensors.json", verbosity=0)
+
+        except Exception as e:
+            print("Sensor auto-load skipped:", e)
