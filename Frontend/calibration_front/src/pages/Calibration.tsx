@@ -10,6 +10,7 @@ import { useState, useEffect } from "react";
 import { useToast } from "@/hooks/use-toast";
 import axios from "axios";
 import { useSensors } from "@/contexts/SensorContext";
+import API_BASE_URL from '@/lib/api';
 
 const Calibration = () => {
   const { sensors } = useSensors();
@@ -34,7 +35,7 @@ const Calibration = () => {
       try {
         console.log("Fetching anomalies for sensor:", selectedSensor);
   
-        const res = await axios.get(`http://127.0.0.1:8000/api/anomalies/?sensor_name=${selectedSensor}`);
+const res = await axios.get(`${API_BASE_URL}/api/anomalies/?sensor_name=${selectedSensor}`);
         console.log("Filtered anomalies fetched:", res.data);
   
         if (res.data.length === 0) {
@@ -85,7 +86,7 @@ const Calibration = () => {
 
     try {
       // Use enhanced ML calibration
-      const response = await axios.post('http://127.0.0.1:8000/api/ml/calibration/apply/', {
+const response = await axios.post(`${API_BASE_URL}/api/ml/calibration/apply/`, {
         sensor_id: sensor.id,
         raw_value: currentData.measured
       });
@@ -125,7 +126,7 @@ const Calibration = () => {
       if (!sensorObj) throw new Error("Selected sensor not found");
   
       // Call backend API to apply calibration
-      await axios.post("http://127.0.0.1:8000/api/calibration/apply/", {
+await axios.post(`${API_BASE_URL}/api/calibration/apply/`, {
         sensor: sensorObj.id,
         method: "linear",  // "auto" is not valid in your model choices
         corrected_value: parseFloat(currentData.corrected),

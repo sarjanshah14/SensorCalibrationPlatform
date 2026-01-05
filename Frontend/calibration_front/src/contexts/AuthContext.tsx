@@ -1,5 +1,6 @@
 import React, { createContext, useContext, useEffect, useState, ReactNode } from 'react';
 import axios from 'axios';
+import API_BASE_URL from '@/lib/api';
 
 interface User {
   id: number;
@@ -63,7 +64,7 @@ export const AuthProvider: React.FC<AuthProviderProps> = ({ children }) => {
       const token = localStorage.getItem('access_token');
       if (token) {
         try {
-          const response = await axios.get('http://127.0.0.1:8000/api/auth/profile/');
+const response = await axios.get(`${API_BASE_URL}/api/auth/profile/`);
           setUser(response.data);
         } catch (error) {
           // Token is invalid, remove it
@@ -80,7 +81,7 @@ export const AuthProvider: React.FC<AuthProviderProps> = ({ children }) => {
 
   const login = async (username: string, password: string): Promise<boolean> => {
     try {
-      const response = await axios.post('http://127.0.0.1:8000/api/auth/login/', {
+const response = await axios.post(`${API_BASE_URL}/api/auth/login/`, {
         username,
         password,
       });
@@ -95,7 +96,7 @@ export const AuthProvider: React.FC<AuthProviderProps> = ({ children }) => {
       axios.defaults.headers.common['Authorization'] = `Bearer ${access}`;
       
       // Get user profile
-      const profileResponse = await axios.get('http://127.0.0.1:8000/api/auth/profile/');
+const profileResponse = await axios.get(`${API_BASE_URL}/api/auth/profile/`);
       setUser(profileResponse.data);
       
       return true;
@@ -107,7 +108,7 @@ export const AuthProvider: React.FC<AuthProviderProps> = ({ children }) => {
 
   const register = async (userData: RegisterData): Promise<boolean> => {
     try {
-      const response = await axios.post('http://127.0.0.1:8000/api/auth/register/', userData);
+const response = await axios.post(`${API_BASE_URL}/api/auth/register/`, userData);
       
       const { access, refresh } = response.data.tokens;
       
@@ -142,7 +143,7 @@ export const AuthProvider: React.FC<AuthProviderProps> = ({ children }) => {
 
   const updateProfile = async (userData: Partial<User>): Promise<boolean> => {
     try {
-      const response = await axios.put('http://127.0.0.1:8000/api/auth/profile/', userData);
+const response = await axios.put(`${API_BASE_URL}/api/auth/profile/`, userData);
       setUser(response.data);
       return true;
     } catch (error) {
@@ -153,7 +154,7 @@ export const AuthProvider: React.FC<AuthProviderProps> = ({ children }) => {
 
   const changePassword = async (oldPassword: string, newPassword: string): Promise<boolean> => {
     try {
-      await axios.post('http://127.0.0.1:8000/api/auth/change-password/', {
+await axios.post(`${API_BASE_URL}/api/auth/change-password/`, {
         old_password: oldPassword,
         new_password: newPassword,
       });

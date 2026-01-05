@@ -6,7 +6,7 @@ const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://sensorcalibra
 
 // Validate that we have a proper API URL in production
 if (import.meta.env.PROD && !import.meta.env.VITE_API_BASE_URL) {
-  console.warn('Production warning: VITE_API_BASE_URL not set. Using default production URL.');
+  throw new Error("VITE_API_BASE_URL is not defined");
 }
 
 export const api = axios.create({

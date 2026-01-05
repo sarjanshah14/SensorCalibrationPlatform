@@ -1,5 +1,7 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import React, { createContext, useContext, useEffect, useState, ReactNode } from 'react';
 import axios from 'axios';
+import API_BASE_URL from '@/lib/api';
 
 interface Sensor {
   id: number;
@@ -45,7 +47,7 @@ export const SensorProvider: React.FC<SensorProviderProps> = ({ children }) => {
   // Fetch all sensors
   const fetchSensors = async () => {
     try {
-      const res = await axios.get("http://127.0.0.1:8000/api/sensors/");
+      const res = await axios.get(`${API_BASE_URL}/api/sensors/`);
       setSensors(res.data);
       setError(null);
     } catch (err) {
@@ -57,8 +59,8 @@ export const SensorProvider: React.FC<SensorProviderProps> = ({ children }) => {
   // Fetch readings for a specific sensor
   const fetchReadings = async (sensorId: number, sensorName: string) => {
     try {
-      const res = await axios.get(
-        `http://127.0.0.1:8000/api/readings/history/?sensor_name=${sensorName}`
+        const res = await axios.get(
+        `${API_BASE_URL}/api/readings/history/?sensor_name=${sensorName}`
       );
       if (res.data.length > 0) {
         const latest = res.data[res.data.length - 1];
@@ -88,13 +90,13 @@ export const SensorProvider: React.FC<SensorProviderProps> = ({ children }) => {
           );
 
           // POST reading to backend
-          axios.post("http://127.0.0.1:8000/api/readings/", {
+axios.post(`${API_BASE_URL}/api/readings/`, {
             sensor: sensor.id,
             raw_value: newValue,
           }).catch(err => console.error("Failed to post reading", err));
 
           // Use enhanced ML anomaly detection
-          axios.post("http://127.0.0.1:8000/api/ml/anomaly/detect/", {
+axios.post(`${API_BASE_URL}/api/ml/anomaly/detect/`, {
             sensor_id: sensor.id,
             reading_value: newValue,
           }).then(response => {

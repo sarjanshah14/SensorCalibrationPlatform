@@ -17,6 +17,7 @@ import {
 } from "lucide-react";
 import { useEffect, useState } from "react";
 import { jsPDF } from "jspdf";
+import API_BASE_URL from '@/lib/api';
 
 // ✅ Replace mock data with backend fetch
 const Anomalies = () => {
@@ -29,7 +30,7 @@ const Anomalies = () => {
 
   // Fetch anomalies from Django backend
   useEffect(() => {
-    fetch("http://127.0.0.1:8000/api/anomalies/") // adjust if using a different backend URL
+fetch(`${API_BASE_URL}/api/anomalies/`)
       .then((res) => res.json())
       .then((data) => {
         setAnomalies(data);

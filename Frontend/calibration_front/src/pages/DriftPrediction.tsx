@@ -10,6 +10,7 @@ import { useState, useEffect } from "react";
 import axios from "axios";
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from "recharts";
 import { useSensors } from "@/contexts/SensorContext";
+import API_BASE_URL from '@/lib/api';
 
 const DriftPrediction = () => {
   const { sensors, readings } = useSensors();
@@ -44,7 +45,7 @@ const DriftPrediction = () => {
     const fetchMLPredictions = async () => {
       try {
         const res = await axios.get(
-          `http://127.0.0.1:8000/api/ml/drift/predict/?sensor_id=${sensor.id}&future_points=5`
+`${API_BASE_URL}/api/ml/drift/predict/?sensor_id=${sensor.id}&future_points=5`
         );
         console.log("ML Drift Predictions:", res.data);
         setMlPredictions(res.data);
@@ -71,7 +72,7 @@ const DriftPrediction = () => {
         // Also fetch detailed calibration schedule from backend
         try {
           const scheduleRes = await axios.get(
-            `http://127.0.0.1:8000/api/ml/calibration-schedule/?sensor_id=${sensor.id}`
+`${API_BASE_URL}/api/ml/calibration-schedule/?sensor_id=${sensor.id}`
           );
           console.log("Calibration Schedule:", scheduleRes.data);
           

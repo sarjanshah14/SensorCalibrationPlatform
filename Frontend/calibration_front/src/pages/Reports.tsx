@@ -26,6 +26,7 @@ import { useToast } from "@/hooks/use-toast";
 import axios from "axios";
 import { jsPDF } from "jspdf";
 import { useSensors } from "@/contexts/SensorContext";
+import API_BASE_URL from '@/lib/api';
 
 const statsCards = [
   { title: "Total Sensors", key: "totalSensors", color: "" , desc: "Active monitoring"},
@@ -63,8 +64,8 @@ const Reports = () => {
     const fetchAdditionalData = async () => {
       try {
         const [anomaliesRes, calibsRes] = await Promise.all([
-          axios.get("http://127.0.0.1:8000/api/anomalies/"),
-          axios.get("http://127.0.0.1:8000/api/calibration/history/"),
+axios.get(`${API_BASE_URL}/api/anomalies/`),
+axios.get(`${API_BASE_URL}/api/calibration/history/`),
         ]);
 
         setAnomalies(anomaliesRes.data);
