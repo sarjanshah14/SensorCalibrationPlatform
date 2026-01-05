@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: sensorcalibrationplatform
+    env: python
+    plan: free
+    rootDir: Backend/calibration_platform
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn calibration_platform.wsgi:application
+    runtime: python-3.11.9
