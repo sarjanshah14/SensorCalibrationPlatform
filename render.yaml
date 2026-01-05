@@ -6,4 +6,4 @@ services:
     rootDir: Backend/calibration_platform
     buildCommand: pip install -r requirements.txt
     startCommand: gunicorn calibration_platform.wsgi:application
-    pythonVersion: 3.11.9
+    pythonVersion: "3.11"
